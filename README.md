@@ -1,5 +1,3 @@
 # TENSmini-Firmware
 
-Please use the provided .ioc file to create a new project in STM32CubeIDE. All functions are presented in main.c. 
-
-THE FRIMWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Please use the provided .ioc file to create a new project in STM32CubeIDE. All functions are presented in main.c.
